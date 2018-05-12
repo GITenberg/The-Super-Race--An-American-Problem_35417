@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4313
     wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35417#The-Super-Race--An-American-Problem
 gutenberg_issued: '2011-02-27'
 gutenberg_type: Text
 identifiers:
